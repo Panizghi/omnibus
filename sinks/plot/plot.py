@@ -2,7 +2,7 @@ import signal
 import time
 
 import numpy as np
-from pyqtgraph.Qt import QtCore
+from qgis.PyQt.QtWidgets import QVBoxLayout
 import pyqtgraph as pg
 import config
 
